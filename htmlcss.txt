@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<meta charset = "utf=8">
+		<title>ialiam11</title>
+		<STYLE type=text/css>
+			*{
+			 margin:  0;
+			}
+			.liam {
+				text-align:center;
+			}
+			H2{
+
+			    text-align:right ; color:blue; background-color: pink;
+			}
+			.manush{
+				
+				
+				background-color: orange;
+
+			}
+			
+
+		</STYLE>
+
+	</head>
+	<body>
+
+		<div class="manush">
+			
+			<h1 style="color:maroon; text-align: center;">my name is khan </h1> 
+			<p>
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only <STRONG>five</STRONG> centuries, but also the leap into electronic typesetting, <SUP>remaining</SUP> essentially unchanged. It was popularised in the 1960s <SUB>with</SUB> the release of Letraset sheets containing Lorem Ipsum passages, and more <DEL>recently</DEL> with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+			</p>
+			
+		</div>
+		</div>
+
+
+
+		<H1 class="liam">
+			THIS IS A HEADING  
+		</H1>
+		<H1>
+			tumi ke bhai  
+		</H1>
+		<H2>
+			AMRA MANUSH  
+		</H2>
+		
+
+		<P>
+			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only <STRONG>five</STRONG> centuries, but also the leap into electronic typesetting, <SUP>remaining</SUP> essentially unchanged. It was popularised in the 1960s <SUB>with</SUB> the release of Letraset sheets containing Lorem Ipsum passages, and more <DEL>recently</DEL> with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+		</P>
+		<ul type ="circle">
+			<li>ami</li>
+			<li>tmk</li>
+			<li>vlobashi</li>
+			<li>go</li>
+		</ul>
+
+		<FORM ACTION =""METHODS="">
+			<LABEL>USERNAME
+			</LABEL>
+			<INPUT TYPE ="TEXT" PLACEHOLDER ="USERNAME" REQUIRED="REQUIRED">
+			<BR><BR>
+			<LABEL>PASSWORD </LABEL>
+			<INPUT TYPE = "PASSWORD" NAME ="PASSWORD" PLACEHOLDER="PASSWORD"REQUIRED="REQUIRED">
+
+			<BR><BR>
+			<INPUT TYPE="SUBMIT" NAME="LOGIN" VALUE="LOGIN">
+
+			<IMG SRC="IMG/conifers-daylight-environment-1666021.jpg " width="150" height = "150">
+
+
+
+
+
+
+		</FORM>
+	</body>
+
+</html>
